@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "DHIVAKAR P",
+      "password": "admin",
+      "email": "dhivakard416@gmail.com",
+      "phone": "08940450960",
+      "country": "",
+      "address": "Sollaikkolaimedu ,Nayakkaneri(po),Ambur(Tk)",
+      "gender": "male"
+    },
+    {
+      "id": "Dhivakar",
+      "name": "DHIVAKAR P",
+      "password": "12345",
+      "email": "dhivakard416@gmail.com",
+      "phone": "0894 045 0960",
+      "country": "",
+      "address": "Sollaikkolaimedu Naykkaneri Ambur Tiruppattur",
+      "gender": "male"
+    }
+  ]
+}
